@@ -1,6 +1,6 @@
 # Restaurant Landing Page
 
-#Deployment Url:
+# Deployment Url:
 
 https://resturant-apps.netlify.app
 
